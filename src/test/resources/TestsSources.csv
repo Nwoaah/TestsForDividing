@@ -143,3 +143,26 @@
 999999999,          3457,                    289268.15
 -9999990.245363246,        3457,            -2892.68
 999999.245363246,          3457,             289.27
+
+
+10.23,              ,                       exception
+---10.23,              ,                    exception
+10.23.531,          3,                      exception
+10+10,              10,                     exception
+,                   10+10,                  exception
+,                   1010,                   exception
+10.23.531,          ,                       exception
+,                   10.23.531,              exception
+10.23-531,          3,                      exception
+10-.23-531,         3,                      exception
+$,                  213,                    exception
+231random,          4,                      exception
+4,                  231random,              exception
+random231,          4,                      exception
+4,                  random231,              exception
+ran231dom,          5,                      exception
+,                   -244,                   exception
+   ,                ,                       exception
+10 30,              213,                    exception
+"    ",             "   " ,                 exception
+randomtext,         randomtext,             exception
