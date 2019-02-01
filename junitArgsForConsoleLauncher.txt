@@ -1,0 +1,13 @@
+--include-engine
+junit-jupiter
+--exclude-engine
+junit-vintage
+--disable-ansi-colors
+--details
+verbose
+--details-theme
+ascii
+--fail-if-no-tests
+--reports-dir
+D:reports
+--scan-classpath
