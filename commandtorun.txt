@@ -1,14 +1,1 @@
 java -cp C:/Users/Nwoaah/.m2/repository/org/junit/platform/junit-platform-console-standalone/1.3.2/junit-platform-console-standalone-1.3.2.jar;D:/trashtest-master/TestsForDividing/target/test-classes org.junit.platform.console.ConsoleLauncher @junit5learn-args.txt
-
-
-java -cp c:\java\jars\junit\junit-platform-console-standalone-1.4.0-M1.jar;L:/JavaProjects/Eclipse/junit5learn/target/test-classes org.junit.platform.console.ConsoleLauncher @junit5learn-args.txt
-
-
-
-java -cp /c/Users/Nwoaah/.m2/repository/org/junit/platform/junit-platform-console-standalone/1.3.2/junit-platform-console-standalone-1.3.2.jar;\d\trashtest-master\TestsForDividing\target\test-classes org.junit.platform.console.ConsoleLauncher @junit5learn-args.txt
-
-
-java -cp \c\Users\Nwoaah\.m2\repository\org\junit\platform\junit-platform-console-standalone\1.3.2\junit-platform-console-standalone-1.3.2.jar;/d/trashtest-master/TestsForDividing/target/test-classes org.junit.platform.console.ConsoleLauncher @junit5learn-args.txt
-
-
-java -cp /c/Users/Nwoaah/.m2/repository/org/junit/platform/junit-platform-console-standalone/1.3.2/junit-platform-console-standalone-1.3.2.jar;/d/trashtest-master/TestsForDividing/target/test-classes org.junit.platform.console.ConsoleLauncher @junit5learn-args.txt
